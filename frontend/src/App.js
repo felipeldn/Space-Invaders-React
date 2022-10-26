@@ -12,7 +12,6 @@ function App() {
         </p>
         <p>
           <Button>Click Here</Button>
-          <Button>Button test </Button>
         </p>
         <a
           className="App-link"
